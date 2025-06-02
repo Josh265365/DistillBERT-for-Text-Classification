@@ -1,3 +1,5 @@
+This was my final year project as an undergraduate at the university of Hull. you can download and read the paper on this  in the repo called "Illegal Wildlife trade detection on social media".
+
 HOW TO TEST THE MODEL!!
 
 (1.) To test the trained model, open the file DistillBERT which has a pickle file of the final trained model.
