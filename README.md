@@ -1,4 +1,4 @@
-This was my final year project as an undergraduate at the university of Hull. you can download and read the paper on this  in the repo called "Illegal Wildlife trade detection on social media".
+This was my final year project as an undergraduate at the university of Hull. you can download and read the paper on this  in the repo called "Identification of illegal wildlife trade on social media.pdf".
 
 HOW TO TEST THE MODEL!!
 
